@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me 1mmina.ai@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Language: Python, C++, PHP, JavaScript
 
 <!---
 1mmina/1mmina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
